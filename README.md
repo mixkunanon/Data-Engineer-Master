@@ -1,16 +1,16 @@
 # End-to-End-Data Pipeline with Airflow
-
-    Technologies Tools: Hadoop,Hive,Hue,Apache Airflow
-    Language : Python,SQL
+Data Source : Dunhubby
+Technologies Tools: Hadoop,Hive,Hue,Airflow
+Language : Python,SQL
 
 ## Data Engineer Portfolio
-    This is a portfolio repository showcasing my work as a data engineer and data scientist. It includes airflow projects and examples that demonstrate my skills in designing data pipeline, and data science skill The portfolio highlights my experience in working with different technologies and tools in the data ecosystem.
+This is a repository showcasing my work as a data engineer and data scientist. It includes airflow projects and examples that demonstrate my skills in designing data pipeline, and data science skill The portfolio highlights my experience in working with different technologies and tools in the data ecosystem.
 
 ## Data Pipeline Figure
-    ![My Image](image\Workflow.png)
+   ![alt text](https://cdn.discordapp.com/attachments/878676298782892112/1108715117220220980/Workflow.png)
 
 ## Airflow DAG overview
-    ![My image](image\dag success.png)
+   ![alt text](https://cdn.discordapp.com/attachments/878676298782892112/1108715116951777281/dag_success.png)
 
 ## Contact information
 Email: kunanon.ae24@gmail.com
