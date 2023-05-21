@@ -9,7 +9,7 @@ This is a repository showcasing my work as a data engineer and data scientist. I
 - Machine Learning
 - Tools : Python
 - Language : Scikit,XGboost,Pandas
-Link : https://github.com/mixkunanon/Data-Engineer-Master/blob/main/Churn_Prediction.ipynb
+- Link : https://github.com/mixkunanon/Data-Engineer-Master/blob/main/Churn_Prediction.ipynb
 ## Data Engineering Part 
 - Technologies Tools: Spark,Hadoop,Hive,Hue,Airflow
 - Language : Python,SQL
