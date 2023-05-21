@@ -1,5 +1,15 @@
 # End-to-End-Data Pipeline with Airflow
-- Data Source : Dunhubby - Retail Customer Data 
+## Data Engineer Portfolio
+This is a repository showcasing my work as a data engineer and data scientist. It includes airflow projects and examples that demonstrate my skills in designing data pipeline, and data science skill .The portfolio highlights my experience in working with different technologies and tools in the data ecosystem.
+
+- Data Source : Dunhubby - Retail Customer Data
+## Data Science Part
+- Customer Analytic , Churn Prediction 
+- Envorionment : Colab Notebook
+- Machine Learning
+- Tools : Python
+- Language : Scikit,XGboost,Pandas
+## Data Engineering Part 
 - Technologies Tools: Spark,Hadoop,Hive,Hue,Airflow
 - Language : Python,SQL
 
