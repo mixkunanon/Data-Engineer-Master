@@ -13,9 +13,6 @@ This is a repository showcasing my work as a data engineer and data scientist. I
 - Technologies Tools: Spark,Hadoop,Hive,Hue,Airflow
 - Language : Python,SQL
 
-## Data Engineer Portfolio
-This is a repository showcasing my work as a data engineer and data scientist. It includes airflow projects and examples that demonstrate my skills in designing data pipeline, and data science skill .The portfolio highlights my experience in working with different technologies and tools in the data ecosystem.
-
 ## Data Pipeline Figure
    ![alt text](https://cdn.discordapp.com/attachments/878676298782892112/1108715117220220980/Workflow.png)
 
